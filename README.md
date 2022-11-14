@@ -8,7 +8,7 @@ This is a Cameo/MagicDraw plugin which allow users to read text files in the not
 
 
 ## Installation
-Copy/Paste the folder "/artifact/TextReader" into "<cameo/MagicDraw installation directory>/plugins". Launch Cameo/MagicDraw and you shall see a message window showing that "Text Reader initiated!".  
+Copy/Paste the folder "/artifact" into "<cameo/MagicDraw installation directory>/plugins". Launch Cameo/MagicDraw and you shall see a message window showing that "Text Reader initiated!".  
 ![Installation](/assets/init.png "init message")
 
 ## Quick Start
