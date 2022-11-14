@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin 
+    id="text_reader_plugin" 
+    name="Text Reader 4 MagicDraw" 
+    version="1.0" 
+    provider-name="Yu XIA" 
+    class="myplugin1.Main">
+    
+    <requires>
+        <api version="1.0"/>
+    </requires>
+    
+    <runtime>        
+        <library name="TextReader.jar"/>
+    </runtime>
+</plugin>
