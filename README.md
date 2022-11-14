@@ -24,9 +24,5 @@ Plain text files (such as .txt/.log/.md) in UTF-8 encoding is supported.
 Non plain text files (such as .doc/.xml/.pdf) or plain text files in other encodings than UTF-8 are NOT supported.
 
 
-## Contact
-
-Yu XIA 
-
 ## Release
 v1.0 - 14 November 2022
