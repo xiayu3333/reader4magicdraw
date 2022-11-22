@@ -1,6 +1,6 @@
 # TextReader4MagicDraw
 
-This is a Cameo/MagicDraw plugin which allow users to read text files in the notification window.
+This is a Cameo/MagicDraw plugin which allows users to read text files in the notification window.
 
 ## Prerequisite
 - MagicDraw/Cameo 19.0    
