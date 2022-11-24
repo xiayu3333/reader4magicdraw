@@ -12,5 +12,6 @@
     
     <runtime>        
         <library name="TextReader.jar"/>
+        <library name="universalchardet.jar"/>
     </runtime>
 </plugin>
