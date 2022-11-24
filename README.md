@@ -20,9 +20,11 @@ Click on "Load New File" and follow the instructions in the form of popup window
 ![Quick Start](/assets/menu.png "Quick Start")
 
 ## Supported Text Files
-Plain text files (such as .txt/.log/.md) in UTF-8 encoding is supported.  
-Non plain text files (such as .doc/.xml/.pdf) or plain text files in other encodings than UTF-8 are NOT supported.
+Plain text files (such as .txt/.log/.md) is supported.  
+Non plain text files (such as .doc/.xml/.pdf)  are NOT supported.
+
+If you find some character encodings are not supported, please report to developer.
 
 
 ## Release
-v1.0 - 14 November 2022
+v1.0 - 24 November 2022
